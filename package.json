@@ -1,0 +1,7 @@
+{
+  "name": "notepad",
+  "description": "A simple, web-based, self-hosted, open source notepad",
+  "keywords": [],
+  "author": "Pascal Wittler",
+  "license": "MIT"
+}

@@ -3,5 +3,8 @@
   "description": "A simple, web-based, self-hosted, open source notepad",
   "keywords": [],
   "author": "Pascal Wittler",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@ckeditor/ckeditor5-build-classic": "^37.1.0"
+  }
 }

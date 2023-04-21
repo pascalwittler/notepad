@@ -1,11 +1,13 @@
 main {
   padding-top: 90px;
+  padding-right: 30px;
   padding-bottom: 90px;
+  padding-left: 30px;
 }
 
 main > * {
   width: 100%;
-  max-width: 1024px;
+  max-width: 960px;
   margin-right: auto;
   margin-left: auto;
 }

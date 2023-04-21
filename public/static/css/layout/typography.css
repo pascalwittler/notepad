@@ -35,6 +35,29 @@ h3,
 }
 
 h4,
-.h4 {
+.h4,
+h5,
+.h5,
+h6,
+.h6 {
   font-size: 1rem;
+}
+
+a {
+  color: var(--color-brand-primary);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+code {
+  display: inline-block;
+  padding: .1rem 4px;
+  font-family: var(--font-family-monoscape);
+  font-size: .8rem;
+  color: var(--color-black);
+  background-color: var(--color-background-emphasize);
+  border-radius: 2px;
 }

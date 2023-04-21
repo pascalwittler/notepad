@@ -1,11 +1,15 @@
 html {
   --color-brand-primary: #ff7100;
   --color-background: #f6f6f6;
+  --color-background-emphasize: #e2e2e2;
   --color-text: #222222;
   --color-border: #cccccc;
+  --color-black: #000000;
+  --color-white: #ffffff;
 
   --font-family: 'Source Sans Pro';
   --font-family-headline: 'Lora';
+  --font-family-monoscape: 'Source Code Pro';
 
   --width-sidebar: 300px;
 }

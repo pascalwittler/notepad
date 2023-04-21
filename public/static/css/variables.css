@@ -1,4 +1,8 @@
 html {
+  --color-brand-primary: #ff7100;
+  --color-background: #f6f6f6;
+  --color-text: #222222;
+
   --font-family: 'Source Sans Pro';
   --font-family-headline: 'Lora';
 }

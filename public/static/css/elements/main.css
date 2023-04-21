@@ -1,0 +1,15 @@
+main {
+  padding-top: 90px;
+  padding-bottom: 90px;
+}
+
+main > * {
+  width: 100%;
+  max-width: 1024px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+main > *:not(:last-child) {
+  margin-bottom: .6em;
+}

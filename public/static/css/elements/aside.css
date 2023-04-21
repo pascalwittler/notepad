@@ -1,0 +1,12 @@
+body {
+  padding-left: var(--width-sidebar);
+}
+
+aside {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: var(--width-sidebar);
+  border-right: 1px solid var(--color-border);
+}

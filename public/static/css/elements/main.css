@@ -12,6 +12,6 @@ main > * {
   margin-left: auto;
 }
 
-main > *:not(:last-child) {
-  margin-bottom: .6em;
+main > * + * {
+  margin-top: 30px;
 }

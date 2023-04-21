@@ -1,0 +1,24 @@
+main ol,
+main ul {
+  list-style-position: inside;
+}
+
+main ol {
+  list-style-type: decimal;
+}
+
+main ul {
+  list-style-type: disc;
+}
+
+main ol > ol,
+main ol > ul,
+main ul > ol,
+main ul > ul {
+  margin-left: 20px;
+}
+
+main ol > ul,
+main ul > ul {
+  list-style-type: circle;
+}
